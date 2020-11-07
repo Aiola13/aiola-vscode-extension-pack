@@ -1,0 +1,43 @@
+{
+    "name": "aiola-vscode-extension-pack",
+    "displayName": "Aiola Vscode Extension Pack",
+    "description": "Toutes les extensions que j'utilise au quotidien",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "ecmel.vscode-html-css", 
+        "eg2.vscode-npm-script", 
+        "Equinusocio.moxer-icons", 
+        "ericadamski.carbon-now-sh", 
+        "esbenp.prettier-vscode", 
+        "felixfbecker.php-debug", 
+        "felixfbecker.php-intellisense", 
+        "felixfbecker.php-pack", 
+        "GitHub.vscode-pull-request-github", 
+        "MS-CEINTL.vscode-language-pack-fr", 
+        "ms-dotnettools.csharp", 
+        "ms-mssql.mssql", 
+        "ms-vscode.cpptools", 
+        "ms-vscode.powershell", 
+        "naumovs.color-highlight", 
+        "noxaled.getcodingknowledge-pack", 
+        "piotrpalarz.vscode-gitignore-generator", 
+        "pranaygp.vscode-css-peek", 
+        "ritwickdey.LiveServer", 
+        "sldobri.bunker", 
+        "tombonnike.vscode-status-bar-format-toggle", 
+        "usernamehw.errorlens", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wix.vscode-import-cost", 
+        "yzhang.markdown-all-in-one"
+    ]
+}
