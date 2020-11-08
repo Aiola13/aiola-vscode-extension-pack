@@ -6,7 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [1.0.0] - 2020-11-08
+## [0.2.0] - 2020-11-08
+### Updated
+- Package repository section
+
+## [0.1.0] - 2020-11-08
 ### Added
 - Readme extentions and theme section
 

@@ -2,10 +2,14 @@
     "name": "aiola-vscode-extension-pack",
     "displayName": "Aiola Vscode Extension Pack",
     "description": "Toutes les extensions que j'utilise au quotidien",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "Aiola",
     "engines": {
         "vscode": "^1.51.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aiola13/aiola-vscode-extension-pack.git"
     },
     "categories": [
         "Extension Packs"
